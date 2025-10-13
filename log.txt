@@ -78,3 +78,15 @@
 [2025-10-13 21:28:12] 📄 Detected update in BILL.pdf → pushing to GitHub...
 [2025-10-13 21:28:12] ✅ Copied latest BILL.pdf into repo
 [2025-10-13 21:28:12] Running: "C:\Program Files\Git\cmd\git.exe" add -A
+[2025-10-13 21:28:12] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-10-13 21:28:12" --allow-empty
+[2025-10-13 21:28:12] [main 357707c] Auto update BILL.pdf at 2025-10-13 21:28:12
+ 1 file changed, 12 insertions(+)
+[2025-10-13 21:28:12] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-13 21:28:14] To https://github.com/NewPayalKinnigoli/Bill.git
+   7486eb6..357707c  main -> main
+[2025-10-13 21:28:14] ✅ Last update successful
+[2025-10-13 21:28:14] 🌐 Public URL: https://newpayalkinnigoli.github.io/Bill/BILL.pdf
+[2025-10-13 21:28:16] 👀 Watching for updates: D:\bill\BILL.pdf
+[2025-10-13 21:28:16] 📄 Detected update in BILL.pdf → pushing to GitHub...
+[2025-10-13 21:28:16] ✅ Copied latest BILL.pdf into repo
+[2025-10-13 21:28:16] Running: "C:\Program Files\Git\cmd\git.exe" add -A
