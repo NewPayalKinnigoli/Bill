@@ -57,3 +57,14 @@
 [2025-10-16 08:23:46] 📄 Detected update in BILL.pdf → pushing to GitHub...
 [2025-10-16 08:23:46] ✅ Copied latest BILL.pdf into repo
 [2025-10-16 08:23:46] Running: "C:\Program Files\Git\cmd\git.exe" add -A
+[2025-10-16 08:23:46] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-10-16 08:23:46" --allow-empty
+[2025-10-16 08:23:46] [main 1348cfe] Auto update BILL.pdf at 2025-10-16 08:23:46
+ 1 file changed, 12 insertions(+)
+[2025-10-16 08:23:46] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-16 08:23:46] fatal: unable to access 'https://github.com/NewPayalKinnigoli/Bill.git/': Could not resolve host: github.com
+[2025-10-16 08:23:46] ✅ Last update successful
+[2025-10-16 08:23:46] 🌐 Public URL: https://newpayalkinnigoli.github.io/Bill/BILL.pdf
+[2025-10-17 08:10:21] 👀 Watching for updates: D:\bill\BILL.pdf
+[2025-10-17 08:10:21] 📄 Detected update in BILL.pdf → pushing to GitHub...
+[2025-10-17 08:10:21] ✅ Copied latest BILL.pdf into repo
+[2025-10-17 08:10:21] Running: "C:\Program Files\Git\cmd\git.exe" add -A
