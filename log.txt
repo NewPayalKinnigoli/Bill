@@ -1,0 +1,22 @@
+[2025-10-27 21:03:13] Copied latest BILL.pdf into repo
+[2025-10-27 21:03:13] ✅ Extracted Bill Data → No: 23699, Name: PRIYA, Mobile: 9686372131, Payable: 1920.00
+[2025-10-27 21:03:13] ✅ Added Bill 23699 → bills.json now has 1 entries
+[2025-10-27 21:03:13] Running: "C:\Program Files\Git\cmd\git.exe" add -A
+[2025-10-27 21:03:13] fatal: not a git repository (or any of the parent directories): .git
+[2025-10-27 21:03:13] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf and bills.json at 2025-10-27 21:03:13" --allow-empty
+[2025-10-27 21:03:14] fatal: not a git repository (or any of the parent directories): .git
+[2025-10-27 21:03:14] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-27 21:03:14] fatal: not a git repository (or any of the parent directories): .git
+[2025-10-27 21:03:14] ✅ Last update successful
+[2025-10-27 21:03:14] Public URL: https://bill-4rh.pages.dev/BILL.pdf
+[2025-10-27 21:03:14] Public JSON: https://bill-4rh.pages.dev/bills.json
+[2025-10-27 21:07:05] Watching: D:\bill\BILL.pdf
+[2025-10-27 21:07:05] Detected update in BILL.pdf — doing push
+[2025-10-27 21:07:05] ✅ Copied PDF to repo
+[2025-10-27 21:07:05] Running: "C:\Program Files\Git\cmd\git.exe" add "BILL.pdf"
+[2025-10-27 21:07:05] ERR: fatal: not a git repository (or any of the parent directories): .git
+[2025-10-27 21:07:05] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-10-27 21:07:05" --allow-empty
+[2025-10-27 21:07:05] ERR: fatal: not a git repository (or any of the parent directories): .git
+[2025-10-27 21:07:05] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-27 21:07:05] ERR: fatal: not a git repository (or any of the parent directories): .git
+[2025-10-27 21:07:05] ❌ Push failed (see above errors)
