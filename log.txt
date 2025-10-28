@@ -654,3 +654,17 @@
 [2025-10-28 15:16:25] 📄 Detected update in BILL.pdf → pushing to GitHub...
 [2025-10-28 15:16:25] ✅ Copied latest BILL.pdf into repo
 [2025-10-28 15:16:25] Running: "C:\Program Files\Git\cmd\git.exe" add -A
+[2025-10-28 15:16:25] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-10-28 15:16:25" --allow-empty
+[2025-10-28 15:16:25] [main bfdbdc5] Auto update BILL.pdf at 2025-10-28 15:16:25
+ 4 files changed, 682 insertions(+), 54 deletions(-)
+ create mode 100644 run_watch.bat
+ create mode 100644 watch_and_push.bat
+[2025-10-28 15:16:25] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-28 15:16:28] To https://github.com/newpayalfashion-code/bill.git
+   4d51d92..bfdbdc5  main -> main
+[2025-10-28 15:16:28] ✅ Last update successful
+[2025-10-28 15:16:28] 🌐 Public URL: https://newpayalkinnigoli.github.io/Bill/BILL.pdf
+[2025-10-28 15:19:30] 👀 Watching for updates: D:\bill\BILL.pdf
+[2025-10-28 15:19:30] 📄 Detected update in BILL.pdf → pushing to GitHub...
+[2025-10-28 15:19:30] ✅ Copied latest BILL.pdf into repo
+[2025-10-28 15:19:30] Running: "C:\Program Files\Git\cmd\git.exe" add -A
