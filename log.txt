@@ -717,3 +717,31 @@ error: failed to push some refs to 'https://github.com/newpayalfashion-code/bill
 [2025-10-28 15:25:47] ✅ Copied latest BILL.pdf into repo
 [2025-10-28 15:25:47] Running: "C:\Program Files\Git\cmd\git.exe" add -A
 [2025-10-28 15:25:47] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-10-28 15:25:47" --allow-empty
+[2025-10-28 15:25:47] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-10-28 15:25:47" --allow-empty
+[2025-10-28 15:25:47] ERR: fatal: Unable to create 'C:/Repos/bill/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[2025-10-28 15:25:47] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-28 15:25:48] [main 181262c] Auto update BILL.pdf at 2025-10-28 15:25:47
+ 2 files changed, 15 insertions(+)
+[2025-10-28 15:25:48] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-28 15:25:50] ERR: Everything up-to-date
+[2025-10-28 15:25:50] ✅ Push successful
+[2025-10-28 15:25:51] To https://github.com/newpayalfashion-code/bill.git
+   07fe38c..181262c  main -> main
+[2025-10-28 15:25:51] ✅ Last update successful
+[2025-10-28 15:25:51] 🌐 Public URL: https://newpayalkinnigoli.github.io/Bill/BILL.pdf
+[2025-10-28 15:26:15] Detected update in BILL.pdf — doing push
+[2025-10-28 15:26:15] ✅ Copied PDF to repo
+[2025-10-28 15:26:15] Running: "C:\Program Files\Git\cmd\git.exe" add "BILL.pdf"
+[2025-10-28 15:26:16] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-10-28 15:26:16" --allow-empty
+[2025-10-28 15:26:16] [main 1ee78da] Auto update BILL.pdf at 2025-10-28 15:26:16
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[2025-10-28 15:26:16] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-28 15:26:16] 📄 Detected update in BILL.pdf → pushing to GitHub...
+[2025-10-28 15:26:16] ✅ Copied latest BILL.pdf into repo
+[2025-10-28 15:26:16] Running: "C:\Program Files\Git\cmd\git.exe" add -A
