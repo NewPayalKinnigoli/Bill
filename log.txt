@@ -803,3 +803,6 @@ error: failed to push some refs to 'https://github.com/newpayalfashion-code/bill
    7d821e6..25b54df  main -> main
 [2025-10-28 15:49:47] ✅ Last update successful
 [2025-10-28 15:49:47] 🌐 Public URL: https://newpayalkinnigoli.github.io/Bill/BILL.pdf
+[2025-10-28 16:17:52] 📄 Detected update in BILL.pdf → pushing to GitHub...
+[2025-10-28 16:17:52] ✅ Copied latest BILL.pdf into repo
+[2025-10-28 16:17:52] Running: "C:\Program Files\Git\cmd\git.exe" add -A
