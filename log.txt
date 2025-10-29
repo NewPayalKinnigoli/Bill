@@ -1346,3 +1346,13 @@ error: failed to push some refs to 'https://github.com/newpayalfashion-code/bill
 [2025-10-29 08:26:10] 📄 Detected update in BILL.pdf → pushing to GitHub...
 [2025-10-29 08:26:10] ✅ Copied latest BILL.pdf into repo
 [2025-10-29 08:26:10] Running: "C:\Program Files\Git\cmd\git.exe" add -A
+[2025-10-29 08:26:12] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-10-29 08:26:12" --allow-empty
+[2025-10-29 08:26:13] [main 2b519c1] Auto update BILL.pdf at 2025-10-29 08:26:12
+ 1 file changed, 12 insertions(+)
+[2025-10-29 08:26:13] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-10-29 08:26:14] fatal: unable to access 'https://github.com/NewPayalKinnigoli/Bill.git/': Could not resolve host: github.com
+[2025-10-29 08:26:14] ✅ Last update successful
+[2025-10-29 08:26:14] 🌐 Public URL: https://newpayalkinnigoli.github.io/Bill/BILL.pdf
+[2025-10-29 08:39:04] 📄 Detected update in BILL.pdf → pushing to GitHub...
+[2025-10-29 08:39:04] ✅ Copied latest BILL.pdf into repo
+[2025-10-29 08:39:04] Running: "C:\Program Files\Git\cmd\git.exe" add -A
