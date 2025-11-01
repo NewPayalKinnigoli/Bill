@@ -4474,3 +4474,14 @@ error: failed to push some refs to 'https://github.com/newpayalfashion-code/bill
 [2025-11-01 10:13:59] 📄 Detected update in BILL.pdf → pushing to GitHub...
 [2025-11-01 10:13:59] ✅ Copied latest BILL.pdf into repo
 [2025-11-01 10:13:59] Running: "C:\Program Files\Git\cmd\git.exe" add -A
+[2025-11-01 10:13:59] Running: "C:\Program Files\Git\cmd\git.exe" commit -m "Auto update BILL.pdf at 2025-11-01 10:13:59" --allow-empty
+[2025-11-01 10:14:00] [main abd75dc] Auto update BILL.pdf at 2025-11-01 10:13:59
+ 2 files changed, 11 insertions(+)
+[2025-11-01 10:14:00] Running: "C:\Program Files\Git\cmd\git.exe" push origin main
+[2025-11-01 10:14:03] To https://github.com/NewPayalKinnigoli/Bill.git
+   c08de09..abd75dc  main -> main
+[2025-11-01 10:14:03] ✅ Last update successful
+[2025-11-01 10:14:03] 🌐 Public URL: https://newpayalkinnigoli.github.io/Bill/BILL.pdf
+[2025-11-01 10:15:48] 📄 Detected update in BILL.pdf → pushing to GitHub...
+[2025-11-01 10:15:48] ✅ Copied latest BILL.pdf into repo
+[2025-11-01 10:15:48] Running: "C:\Program Files\Git\cmd\git.exe" add -A
